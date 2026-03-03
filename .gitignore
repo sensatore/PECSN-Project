@@ -1,0 +1,12 @@
+*.o
+*.so
+*.dll
+*.exe
+out/
+.qtenvrc
+*.qtenvrc
+results/
+*.sca
+*.vec
+*.vci
+*.log

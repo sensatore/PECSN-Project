@@ -1,0 +1,3 @@
+package progettopecsn;
+
+@license(LGPL);
